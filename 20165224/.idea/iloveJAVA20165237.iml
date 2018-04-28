@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../junit-4.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../mysql-connector-java-5.1.41-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src/ch01/HelloJDB3724/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/Noob/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P1-P8" />
+          <root url="file://$MODULE_DIR$/src/ch01/P100/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P102/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P103/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P110/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P114/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P116/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P117/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P119/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P120/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P121/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P123/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P124/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P125/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P127/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P128/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P130/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P131/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P136/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P146/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P14/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P150/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P151/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P153/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P156/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P162/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P165/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P166/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P167/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P168/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P170/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P171/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P20/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P22/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P23/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P282/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P283/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P284/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P286/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P289/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P28/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P290/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P291/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P293/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P295/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P296/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P297/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P298/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P29/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P300/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P302/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P304/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P305/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P306/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P308/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P310/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P311/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P312/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P316/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P31/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P332/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P334/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P336/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P337/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P339/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P341/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P344/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P347/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P349/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P362/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P365/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P366/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P368/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P36/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P371/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P372/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P374/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P375/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P377/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P379/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P380/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P383/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P384/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P386/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P39/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P40/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P42/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P44/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P45/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P46/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P47/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P48/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P49/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P59/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P67/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P68/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P70/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P72/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P75/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P78/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P80/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P81/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P82/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P84/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P87/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P89/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P90/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P91/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P92/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P96/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/P97/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/Test" />
+          <root url="file://$MODULE_DIR$/src/ch01/Unit15" />
+          <root url="file://$MODULE_DIR$/src/ch01/Unit8" />
+          <root url="file://$MODULE_DIR$/src/ch01/diedai/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/exp2/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/shiyan3/Partner" />
+          <root url="file://$MODULE_DIR$/src/ch01/shiyan3/mimaxue/src" />
+          <root url="file://$MODULE_DIR$/src/ch01/shiyan3/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
